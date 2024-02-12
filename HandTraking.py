@@ -1,3 +1,8 @@
+##################################
+##################################
+# Copyright (c) 2024 Pulce D'acqua
+##################################
+##################################
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import time
